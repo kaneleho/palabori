@@ -1,0 +1,1 @@
+renderAsync(scene, camera, renderer);
